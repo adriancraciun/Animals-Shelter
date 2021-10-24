@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{D93567DC-33EE-4632-B030-F7E5D07C95A1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnimalsShelter/Program.cs">
+    <Files>
+      <File FileName="AnimalsShelter/Program.cs" Line="1" Column="1" />
+      <File FileName="AnimalsShelter/Form1.cs" Line="1" Column="1" />
+      <File FileName="AnimalsShelter/RoundButton.cs" Line="1" Column="1" />
+      <File FileName="AnimalsShelter/UserInterface.cs" Line="1" Column="1" />
+      <File FileName="AnimalsShelter/App.config" Line="1" Column="1" />
+      <File FileName="AnimalsShelter/AnimaleDataSet1.xsd" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AnimalsShelter" expanded="True">
+            <Node name="AnimalsShelter" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AnimalsShelter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
